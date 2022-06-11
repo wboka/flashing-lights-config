@@ -1,0 +1,7 @@
+Flashing Lights game file for emergency lights setup.
+ 
+Light model name:
+Wall LED
+2?5&0.35?0.35&1&2&0.5?0.5
+ 
+* Adjusting this file manually may break the import/export functionality!
