@@ -1,0 +1,7 @@
+pd slots
+1=beach town
+2=code town
+3=state
+4=sheriff
+
+ems
